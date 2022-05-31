@@ -1,14 +1,4 @@
-# Kalman Filter Library
 
-[![Build Status](https://travis-ci.org/mherb/kalman.svg?branch=master)](https://travis-ci.org/mherb/kalman)
-
-This is a header-only C++11 library implementing common variants of the well-known [Kalman-Filter](https://en.wikipedia.org/wiki/Kalman_filter).
-Currently implementations of these filter variants are included:
-
-* Extended Kalman Filter (EKF)
-* Square Root Extended Kalman Filter (SR-EKF)
-* Unscented Kalman Filter (UKF)
-* Square Root Unscented Kalman Filter (SR-UKF)
 
 ## Dependencies
 
